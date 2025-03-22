@@ -1,4 +1,4 @@
-## Rewrite maybe in 10 years
+## ЭТОТ ТЕКСТ НАПИСАЛ ДМИТРИЙ УТКИН
 
 ![# Marseyloader](SS14.Launcher/Assets/logo-long.png)
 
