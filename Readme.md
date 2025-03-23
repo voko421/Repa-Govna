@@ -13,14 +13,14 @@ Space Station 14 launcher with client-side modding/patching support.
 * **Integration with the Harmony patching library.**
 * * Full functionality regarding methods in client/shared content/engine assemblies.
 * * Sideloading custom code as part of the game
-* * Win/Mac/Linux support
+* * Win support
 * * No injectors used, entirely based on reflection
 * * Patches are hidden from game
 * * "Backport" support
 * Enabled multiaccount
 * Privacy changes
 * * Tokens are updated only on connect or account switch to evade alt detection
-* * HWId spoofing
+* * HWId1 spoofing
 * * Forcibly disable Discord RPC
 * * Disable Redialing (Forced reconnects)
 * * Wizden hub mirror set as default hub
