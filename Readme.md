@@ -1,4 +1,6 @@
+![# hacker anonimus](Assets/info-icons/image.png)
 ## ЭТОТ ТЕКСТ НАПИСАЛ ДМИТРИЙ УТКИН
+
 
 ![# Marseyloader](SS14.Launcher/Assets/logo-long.png)
 
